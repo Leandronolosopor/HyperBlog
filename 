@@ -1,0 +1,74 @@
+[33mcommit 3b8128a4f23582b755e7e324d3a013f5ec191a8d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 451e513 e2f8ede
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Fri Mar 18 12:28:08 2022 -0300
+
+    volvi a una tipografia menos controversial
+
+[33mcommit 451e513f4a329b25fdd2e8665c30cabec7f92322[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Fri Mar 18 12:10:04 2022 -0300
+
+    Agregado el contenido adicional del blog y una mejor tipografia
+
+[33mcommit e2f8ede9c61cbeb995ce03ef18a071e9b3ea3e8a[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Thu Mar 17 18:22:53 2022 -0300
+
+    Finalizada la cabecera con diseño azuel
+
+[33mcommit b54e77788fbe7e8586024a34ff69884ef18a7c97[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Sat Mar 12 21:29:52 2022 -0300
+
+    Arregle el archivo porque habia puesto cabecera y no lo era
+
+[33mcommit 8742186d80b25b83d28ed29e230dfc9591ddd5cf[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Sat Mar 12 21:25:13 2022 -0300
+
+    Estructura inicial de la cabecera
+    
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit 937e963c139bc196953453fd0e4131f31ca2b247[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Sat Mar 12 20:58:34 2022 -0300
+
+    Commit al master del blogpost en su vercion mas reciente
+
+[33mcommit b1597db1a55c462944c276221f080061cdc93cd2[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Fri Mar 11 21:23:34 2022 -0300
+
+    Remplazo de su historia por su vida laboral
+
+[33mcommit 5803f258851231e878c97d9a6edebf001a7ea68d[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Fri Mar 11 21:06:23 2022 -0300
+
+    Cambio de Maestria
+
+[33mcommit d052b1cc0e61e9f23e40689e86cd2f5abf482d2a[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Fri Mar 11 21:06:04 2022 -0300
+
+    Cambio de Vida
+
+[33mcommit 5cffdc8baf784abda57a986e60ca4e10a6e49ddd[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Fri Mar 11 21:04:47 2022 -0300
+
+    Arranco mi proyecto real con html y css
+
+[33mcommit 5af428dbf2bd56ec7b9ef88e436d241cf4a0d0ea[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Sun Feb 20 19:11:21 2022 -0300
+
+    Cambio para reflejar que me encuentro en Argentina
+
+[33mcommit 2808b0830d2500ce7684731ebf164e673eba143f[m
+Author: Leandro Salzberg <salz.lean@gmail.com>
+Date:   Sun Feb 20 19:08:53 2022 -0300
+
+    Este es el primer commit de este archivo
